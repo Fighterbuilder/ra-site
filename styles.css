@@ -2,8 +2,10 @@ body {
   cursor: url(http://www.rw-designer.com/cursor-extern.php?id=19221);
   background-image: url("a-friend-night-sky.gif");
   background-color: #000000;
+  font-family: Comic Sans MS, Papyrus, fantasy;
 }
 h1 {
   color: rgba(0,255,0,1);
   text-shadow: 3px 2px 0px rgba(0,127,0,1);
+  font-family: Impact, Arial, sans-serif;
 }
