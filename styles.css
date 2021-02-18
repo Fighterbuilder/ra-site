@@ -4,7 +4,7 @@ body {
   background-color: #000000;
   font-family: Comic Sans MS, Papyrus, fantasy;
 }
-table { border: 5px bevel; elevation: 2; background-color:blue; margin: 0, 15%, 0, 15%;}
+table { border: 5px bevel; elevation: 2; margin-left: 15%; margin-right: 15%; margin-top: 32px;}
 tr
 { color:white; }
 td { border: 4px bevel; elevation: -1; }
