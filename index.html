@@ -4,8 +4,7 @@
         <Title>Fighter_Builder's Retail Mode Xbox One Homebrew</Title>
         <link rel="stylesheet" href="styles.css">
     </HEAD>
-    <BODY background="a-friend-night-sky.gif'">
-        <embed src="https://members.tripod.com/~ANDRO_THE_RIPPER/musica/grabbag.mid" autostart="true" loop="true" width="2" height="0"></embed> 
+    <BODY background="a-friend-night-sky.gif'"> 
         <table>
             <thead>
                 <tr>
@@ -23,5 +22,13 @@
                 </tr>
             </tbody>
         </table>
+        <audio src="grabbag.mp3" type="audio/mp3"></audio>
+        <script>
+            window.addEventListener("DOMContentLoaded", event => {
+                const audio = document.querySelector("audio");
+                audio.volume = 0.2;
+                audio.play();
+            });
+        </script>
     </BODY>
 </HTML>
