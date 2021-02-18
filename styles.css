@@ -4,6 +4,8 @@ body {
   background-color: #000000;
   font-family: Comic Sans MS, Papyrus, fantasy;
 }
+table { border: 5px bevel; elevation: 2 }
+td { border: 4px bevel; elevation: -1 }
 h1 {
   color: rgba(0,255,0,1);
   text-shadow: 3px 2px 0px rgba(0,255,0,0.5);
