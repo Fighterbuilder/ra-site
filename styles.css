@@ -21,3 +21,9 @@ a {
   font-family: Comic Sans MS, Papyrus, fantasy;
   font-size: 60px;
 }
+h2 {
+  color: rgba(255,255,0,1);
+  text-shadow: 3px 2px 0px rgba(255,255,0,0.5);
+  font-family: Courier New, monospace;
+  font-size: 48px;
+}
